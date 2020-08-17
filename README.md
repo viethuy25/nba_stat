@@ -1,4 +1,4 @@
-# nba_stat, links to kaggle dataset will be updated later
+# nba_stat
 https://www.kaggle.com/justinas/nba-players-data
 
 At the overview stage, we can see the following: <br />
