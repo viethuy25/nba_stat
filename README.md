@@ -15,8 +15,4 @@ _ There are a weak negative correlation between points, asssists or rebounds wit
 
 <br /><br />
 
-<<<<<<< HEAD
-<h2>However </h2>, over the years, net rating has a strong negative correlation with draft number. This shows the increasingly accurate of scouting in the NBA.</h2> 
-=======
-<h2>However </h2>, net ratings of higher drafted numbers and drafted rounds are getting more correlated as time goes by. It proves that <h2>scout accuracy are getting better.</h2> 
->>>>>>> 32a091c4b83a6e09e36eef2e03cc6bf09be03adf
+<h2>However </h2>, over the years, net rating has a strong negative correlation with draft number. This shows the increasingly accurate of scouting in the NBA.</h2>
