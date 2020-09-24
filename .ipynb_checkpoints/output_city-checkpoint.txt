@@ -1,0 +1,123 @@
+"Abu Dhabi"	5
+"Adelaide"	307
+"Alaska"	36
+"Almaty"	2
+"America/Argentina/Buenos_Aires"	1
+"America/Caracas"	1
+"America/Chicago"	5
+"America/Detroit"	2
+"America/Los_Angeles"	5
+"America/Managua"	1
+"America/New_York"	8
+"Amsterdam"	29
+"Arizona"	33
+"Asia/Kolkata"	2
+"Athens"	44
+"Atlantic Time (Canada)"	64
+"Auckland"	5
+"Australia/Adelaide"	1
+"Australia/Brisbane"	1
+"Australia/Lord_Howe"	2
+"Australia/Melbourne"	2
+"Australia/Perth"	1
+"Australia/Sydney"	18
+"Baghdad"	11
+"Baku"	1
+"Bangkok"	16
+"Beijing"	96
+"Belgrade"	3
+"Berlin"	3
+"Bern"	3
+"Bogota"	11
+"Brasilia"	40
+"Brisbane"	844
+"Budapest"	1
+"Buenos Aires"	7
+"Cairo"	1
+"Canberra"	92
+"Caracas"	6
+"Casablanca"	6
+"Central America"	4
+"Central Time (US & Canada)"	190
+"Chennai"	10
+"Chongqing"	1
+"Copenhagen"	4
+"Darwin"	18
+"Dublin"	8
+"EST"	1
+"Eastern Time (US & Canada)"	305
+"Edinburgh"	4
+"Fiji"	2
+"GMT+3"	1
+"GMT-6"	1
+"Greenland"	14
+"Guam"	1
+"Hanoi"	5
+"Harare"	1
+"Hawaii"	210
+"Hobart"	44
+"Hong Kong"	10
+"Indiana (East)"	8
+"International Date Line West"	4
+"Irkutsk"	12
+"Islamabad"	1
+"Istanbul"	9
+"Jakarta"	12
+"Jerusalem"	2
+"Kabul"	1
+"Kamchatka"	1
+"Karachi"	2
+"Kathmandu"	2
+"Krasnoyarsk"	7
+"Kuala Lumpur"	34
+"Kuwait"	1
+"Kyiv"	1
+"Lima"	3
+"Lisbon"	9
+"Ljubljana"	4
+"London"	87
+"Madrid"	10
+"Melbourne"	1164
+"Mexico City"	4
+"Mid-Atlantic"	2
+"Midway Island"	3
+"Monrovia"	1
+"Moscow"	1
+"Mountain Time (US & Canada)"	29
+"Mumbai"	4
+"Nairobi"	1
+"New Caledonia"	123
+"New Delhi"	11
+"Newfoundland"	1
+"Novosibirsk"	2
+"Nuku'alofa"	5
+"Osaka"	3
+"Pacific Time (US & Canada)"	847
+"Paris"	12
+"Perth"	267
+"Prague"	1
+"Quito"	47
+"Riyadh"	4
+"Rome"	2
+"Samoa"	1
+"Santiago"	9
+"Seoul"	2
+"Singapore"	7
+"Sofia"	1
+"Solomon Is."	52
+"Sri Jayawardenepura"	1
+"Stockholm"	2
+"Sydney"	1423
+"Taipei"	2
+"Tbilisi"	1
+"Tehran"	2
+"Tijuana"	10
+"Tokyo"	14
+"UTC"	1
+"Ulaan Bataar"	2
+"Urumqi"	20
+"Volgograd"	1
+"Warsaw"	1
+"Wellington"	13
+"West Central Africa"	3
+"Yakutsk"	100
