@@ -15,4 +15,8 @@ _ There are a weak negative correlation between points, asssists or rebounds wit
 
 <br /><br />
 
-<h2>However </h2>, over the years, net rating has a strong negative correlation with draft number. This shows the increasingly accurate of scouting in the NBA.</h2>
+<h2> This also represents the drafting quality of each class, which shows a surplus to standard in overall or injury plague among top drafted players. </h2> 
+For example, in the top 10 drafted players of the 2010 NBA draft class, only <b>John Wall<b/> and Cousins averaging over 10 points a game, while other future All-Stars like <b>Paul George<b/> or <b>Gordon Hayward<b/> averaging 7.8 points and 5.4 points a game, which didn't provide much of an impact for their teams.
+<br />
+    
+<b>In general </b>, over the years, net rating has a strong negative correlation with draft number. This shows the <b>increasingly accurate<b/> of scouting in the NBA.
