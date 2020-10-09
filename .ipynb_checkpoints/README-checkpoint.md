@@ -16,7 +16,13 @@ _ There are a weak negative correlation between points, asssists or rebounds wit
 <br />
 
 <h2> This also represents the drafting quality of each class, which shows a surplus to standard in overall or injury plague among top drafted players. </h2> 
-For example, in the top 10 drafted players of the 2010 NBA draft class, only <b>John Wall<b/> and Cousins averaging over 10 points a game, while other future All-Stars like <b>Paul George<b/> or <b>Gordon Hayward<b/> averaging 7.8 points and 5.4 points a game, which didn't provide much of an impact for their teams.
+For example, in the top 10 drafted players of the 2010 NBA draft class, only <b>John Wall</b> and Cousins averaging over 10 points a game, while other future All-Stars like <b>Paul George</b> or <b>Gordon Hayward</b> averaging 7.8 points and 5.4 points a game, which didn't provide much of an impact for their teams.
 <br />
     
-<b>In general </b>, over the years, net rating has a strong negative correlation with draft number. This shows the <b>increasingly accurate<b/> of scouting in the NBA.
+<b>In general </b>, over the years, net rating has a strong negative correlation with draft number. This shows the <b>increasingly accurate</b> of scouting in the NBA.
+
+<br />
+<b>The lower</b> the draft numbers, <b>the higher accuracy</b> of scouting and <b>the more distinction</b> between higher drafted players and lower drafted ones.
+    
+<br />
+<b>Lower PLUS_MINUS</b> here means <b>better performed players were in weaker teams</b> in the league, which negatively impacts players' plus_minus, while other guys have minimal impact.
