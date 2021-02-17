@@ -8,11 +8,11 @@ _ From the csv, draft_year ranges from 1963 to 2019 with major year gaps in betw
 
 After graphing, the following is obversed: <br />
 _ Weight are ever-increasing. This may due to better meal and science-built body training to maximize physical tools for athletes. <br />
-![](https://github.com/viethuy25/nba_stat/index.jpg)
+![](https://github.com/viethuy25/nba_stat/blob/master/index.jpg)
 _ Usage rate is higher linked with points and assists than rebounds. <br />
-![](https://github.com/viethuy25/nba_stat/index2.jpg)
+![](https://github.com/viethuy25/nba_stat/blob/master/index2.jpg)
 _ There are a weak negative correlation between points, asssists or rebounds with draft number and draft rounds. <br />
-![](https://github.com/viethuy25/nba_stat/index3.jpg)
+![](https://github.com/viethuy25/nba_stat/blob/master/index3.jpg)
 
 <h2> This may indicate that drafting numbers and drafting rounds are not based on current level of performance but based on potential prospect. </h2>
 
@@ -23,7 +23,7 @@ For example, in the top 10 drafted players of the 2010 NBA draft class, only <b>
 <br />
     
 <b>In general </b>, over the years, net rating has a strong negative correlation with draft number. This shows the <b>increasingly accurate</b> of scouting in the NBA.
-![](https://github.com/viethuy25/nba_stat/index4.jpg)
+![](https://github.com/viethuy25/nba_stat/blob/master/index4.jpg)
 <br />
 <b>The lower</b> the draft numbers, <b>the higher accuracy</b> of scouting and <b>the more distinction</b> between higher drafted players and lower drafted ones.
     
